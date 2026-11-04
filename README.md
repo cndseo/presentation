@@ -8,7 +8,7 @@
 
 Basé à Bollène, dans le sud de la France · Collaboration sur place ou à distance
 
-[**Découvrir CNDSEO**](https://cndseo.fr/) · [**Explorer mon code public**](https://github.com/cndseo?tab=repositories) · [**Parler d'un projet**](https://cndseo.fr/#contact)
+[**Découvrir CNDSEO**](https://cndseo.fr/) · [**Ma présentation GitHub**](https://github.com/cndseo/presentation) · [**Parler d'un projet**](https://cndseo.fr/#contact)
 
 </div>
 
@@ -42,14 +42,9 @@ Conception de sites, référencement, production vidéo et automatisation. Le po
 
 **[Voir le site et les réalisations →](https://cndseo.fr/)**
 
-### CONVERGENCE — Explorer le jeu dans le navigateur
+### Mes travaux de développement et de prototypage
 
-Deux dépôts publics permettent de consulter des expérimentations techniques :
-
-- **[convergence-game](https://github.com/cndseo/convergence-game)** — prototype de jeu Web en HTML/CSS/JavaScript, avec une composante Node.js et un fonctionnement autonome dans le navigateur.
-- **[convergence-runner-lab](https://github.com/cndseo/convergence-runner-lab)** — laboratoire de rendu et d'interactions, comparant notamment des pistes Babylon.js et Three.js pour le mobile.
-
-Ces dépôts montrent des **expérimentations**, pas une promesse de jeu commercial terminé.
+Je conçois des applications Web et des expériences interactives, en accordant une attention particulière au mobile, à la qualité d'utilisation et à la fiabilité. Certains travaux sont privés : je partage uniquement des réalisations et références destinées au public.
 
 ### Création et médias
 
